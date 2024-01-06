@@ -29,7 +29,7 @@ const card = (
         Junior Front-End Developer
     </Typography>
     <Typography variant="body2">
-        Leader.
+        
         <br />
         <div className="logowrapper">
         <img className="logo" src={iglogo} alt='iglo'/>{'@mkhlwhyu'}
@@ -59,7 +59,7 @@ const card = (
         Junior Back-End Developer
     </Typography>
     <Typography variant="body2">
-        Leader.
+        
         <br />
         <div className="logowrapper">
         <img className="logo" src={iglogo} alt='iglo'/>{'@muzalx'}
@@ -86,10 +86,10 @@ const card = (
         Ahmad Buhori 
     </Typography>
     <Typography sx={{ mb: 1.5 }} color="#1d1d1d">
-        Full-stack Web Dev
+        
     </Typography>
     <Typography variant="body2">
-        Leader.
+        
         <br />
         <div className="logowrapper">
         <img className="logo" src={iglogo} alt='iglo'/>{'@ahmd_bhri'}
@@ -114,10 +114,10 @@ const card = (
         Yohanes Setiawan 
     </Typography>
     <Typography sx={{ mb: 1.5 }} color="#1d1d1d">
-        Full-stack Web Dev
+        
     </Typography>
     <Typography variant="body2">
-        Leader.
+        
         <br />
         <div className="logowrapper">
         <img className="logo" src={iglogo} alt='iglo'/>{'@yohanes_set'}
@@ -145,7 +145,7 @@ const card = (
         Full-stack Web Dev
     </Typography>
     <Typography variant="body2">
-        Leader.
+        
         <br />
         <div className="logowrapper">
         <img className="logo" src={iglogo} alt='iglo'/>{'@wahyuags_'}
